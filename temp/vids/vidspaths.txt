@@ -1,0 +1,10 @@
+file C:/JERE/PROJECTS/mr-uncanny/temp/vids/000000.mp4
+file C:/JERE/PROJECTS/mr-uncanny/temp/vids/000001.mp4
+file C:/JERE/PROJECTS/mr-uncanny/temp/vids/000002.mp4
+file C:/JERE/PROJECTS/mr-uncanny/temp/vids/000003.mp4
+file C:/JERE/PROJECTS/mr-uncanny/temp/vids/000005.mp4
+file C:/JERE/PROJECTS/mr-uncanny/temp/vids/000006.mp4
+file C:/JERE/PROJECTS/mr-uncanny/temp/vids/000007.mp4
+file C:/JERE/PROJECTS/mr-uncanny/temp/vids/000008.mp4
+file C:/JERE/PROJECTS/mr-uncanny/temp/vids/000009.mp4
+file C:/JERE/PROJECTS/mr-uncanny/temp/vids/000011.mp4

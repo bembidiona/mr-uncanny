@@ -1,0 +1,12 @@
+0 zero start at the normal phase
+3 this jumps to the third uncanny phase
+-6 negative numbers are canny phases
+0 goes back to normal
+# you can leave comments using like this. This line will not end up in the video
+> this step forwards into uncanniness
+> next uncanny level, now we are at two
+>>> advance 3 steps, now we are a 5
+<<<<< go back 5 steps, into normal
+<<<<<<<<<<<<<<<<<<<<<<< go back a lot
+# if you move out of range, you get clamped between the max canny and uncanny phases.
+21 jump to my favorite phase
